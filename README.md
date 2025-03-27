@@ -1,5 +1,9 @@
 # Telugu Text-to-Speech
 
+## Huggingface Model card
+```https://huggingface.co/Epikwhale/speecht5_finetuned_telugu_charan```
+![image](https://github.com/user-attachments/assets/7c54d8e8-dd6a-4f9d-aaf4-bebdd2b58c75)
+
 This project implements a Text-to-Speech (TTS) system for the Telugu language by fine-tuning the Microsoft SpeechT5 model on Telugu audio data.
 
 ## Overview
